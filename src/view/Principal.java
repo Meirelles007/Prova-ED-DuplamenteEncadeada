@@ -12,7 +12,7 @@ public class Principal {
 
         ListaBuilder builder = new ListaBuilder();
 
-        String[] nome = { "W", "I", "L", "L" };
+        String[] nome = { "W", "I", "L", "L","I","A","N" };
         String[] sobrenome = { "M", "E", "I", "R", "E", "L", "L", "E","S" };
 
         for (int i = 0; i < nome.length; i++) {
